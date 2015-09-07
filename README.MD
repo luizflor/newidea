@@ -1,3 +1,3 @@
 #New Ideas
 
-Playing around with VS Code
+Playing around with VS Code!
